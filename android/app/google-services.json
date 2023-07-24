@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "847878829681",
+    "project_id": "learning-firebase-auth-20824",
+    "storage_bucket": "learning-firebase-auth-20824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847878829681:android:b04924279ababb9d34cdd0",
+        "android_client_info": {
+          "package_name": "com.alanpasi.learning_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847878829681-989ugemlk6aqarocl47g3h1rms1uh3i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUZudGUEH29a0KMo3seHPN1xlvvKygJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847878829681-989ugemlk6aqarocl47g3h1rms1uh3i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847878829681:android:821784e984f435ba34cdd0",
+        "android_client_info": {
+          "package_name": "com.alanpasi.login_cadastro_no_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847878829681-989ugemlk6aqarocl47g3h1rms1uh3i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUZudGUEH29a0KMo3seHPN1xlvvKygJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847878829681-989ugemlk6aqarocl47g3h1rms1uh3i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
